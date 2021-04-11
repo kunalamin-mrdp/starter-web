@@ -12,3 +12,7 @@ training
 deploy time
 
 ##How To Contribute
+
+##Copyright
+
+Git.Training
