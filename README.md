@@ -13,6 +13,8 @@ deploy time
 
 ##How To Contribute
 
+fork this repo then issue pull request
+
 ##Copyright
 
 Git.Training
