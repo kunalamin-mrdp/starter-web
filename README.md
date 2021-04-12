@@ -1,7 +1,7 @@
 # Starter Web Project
 
 How to use Git and Github
-Adding a line for rebase eg
+Adding a line for rebase eg, then more changes from myfeature branch
 
 ## Introduction
 intro
