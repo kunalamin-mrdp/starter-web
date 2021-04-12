@@ -1,6 +1,7 @@
 # Starter Web Project
 
 How to use Git and Github
+Adding a line for rebase eg
 
 ## Introduction
 intro
